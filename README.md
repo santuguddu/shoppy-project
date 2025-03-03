@@ -15,7 +15,7 @@ If you are developing a production application, we recommend using TypeScript an
  # 1.clone the project
 git clone https://github.com/santuguddu/shoppy-project.git
 # go to the following directory 
-cd shoppy-project  
+ # cd  my-app  
 
 # Install  following Dependencies  
 # npm install react react-dom react-router-dom redux react-redux redux-thunk @reduxjs/toolkit axios
